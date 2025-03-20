@@ -1,0 +1,3 @@
+FL     - 20 (pulls) / -3 (slips)  / 6 (pulls)  / 7N (Slips)           / 0.091m
+SMC    - 24 (pulls) / -3 (pulls)  / 8 (pulls)  / 8N (Pulls and Slips) / 0.055m
+SMCext - 23 (pulls) / -13 (?????) / 10 (pulls) / 7N (Slips)           / 0.046m

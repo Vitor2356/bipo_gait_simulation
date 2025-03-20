@@ -1,0 +1,3 @@
+FL     - 28º (pulls) / -5º  (pulls) / 11º (pulls) / 8N (Pulls the floor)
+SMC    - 24º (pulls) / -3º  (pulls) / 8º (pulls)  / 8N (Slips and pull on step)
+SMCext - 18º (pulls) / -13º (slips) / 8º (pulls)  / 7N (Slips 2 steps after)
